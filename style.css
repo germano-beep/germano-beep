@@ -1,0 +1,11 @@
+header{
+    background-color: #FBF37C;
+    height: 50px;
+}
+
+footer{
+    position: absolute;
+	bottom: 0;
+    background-color: #FBF37C;
+    height: 50px;
+}
