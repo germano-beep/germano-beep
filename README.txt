@@ -1,7 +1,8 @@
-Oi, eu sou o Arthur, mas pode me chamar de Germano,
-Faço Sistemas de informação,
-Desejo ser um bom programador,
-tenho 21 anos.
+
+Arthur Germano Margarida.
+Cursando sistemas de informação na ufop.
+Gosto de futebol e animes.
+
 
 
 
